@@ -1,0 +1,11 @@
+path,dataset,sample,source,size_bytes,sha256
+data/datasets/Human_lymph_node/slice1/s1_adata_rna.h5ad,Human lymph node,S1,https://doi.org/10.5281/zenodo.18946723,56618370,0c803467aaba3ebd50c37bdb7b84ca81c92e01e1481496568347025d1a9c36cb
+data/datasets/Human_lymph_node/slice2/s2_adata_rna.h5ad,Human lymph node,S2,https://doi.org/10.5281/zenodo.18946723,31645935,d1bcd3d9bf3a5892a872185e83326a26cce1d24380fff9244a257fb9272501d4
+data/datasets/Human_lymph_node/slice3/s3_adata_rna.h5ad,Human lymph node,S3,https://doi.org/10.5281/zenodo.18946723,94425293,904ebe3e827ccc9b17e9cb11ad503a1e0d7078d412fa5b42e49efedb940e63d3
+data/datasets/Simulation/slice1/adata_RNA.h5ad,Simulation,S1,https://doi.org/10.5281/zenodo.15089427,10624048,1d9981c3f30c3ba5c435ea41e63321c0225257e9a0a3fdc0ac341cc3682f8a69
+data/datasets/Simulation/slice2/adata_RNA.h5ad,Simulation,S2,https://doi.org/10.5281/zenodo.15089427,10624048,3bef74a3b7c10481eb082361be8811bed7a481f6fa7d703336077109616abbc0
+data/datasets/Simulation/slice3/adata_RNA.h5ad,Simulation,S3,https://doi.org/10.5281/zenodo.15089427,10624048,a325717127e131fdbf2f5cb2b324f500daa49e570dbd1cfdfbde26f7f82a6890
+data/datasets/Simulation/slice4/adata_RNA.h5ad,Simulation,S4,https://doi.org/10.5281/zenodo.15089427,10624048,7242a2ddc8b3b87741041b2e45d2fa6f3bceb0d3e65026a30a5154a501eaa019
+data/datasets/Simulation/slice5/adata_RNA.h5ad,Simulation,S5,https://doi.org/10.5281/zenodo.15089427,10624048,997c0b41d11416d05a80b1e8ddae8a5647ff189114098f587059cda9da1f5404
+data/datasets/Mouse_Brain/ATAC/adata_RNA.h5ad,Mouse brain,ATAC,https://doi.org/10.5281/zenodo.10362607,86013085,5cbae9cb7b26cac71fc575cf6e2eb903180fd142bcf2260059f32425c07afbd8
+data/datasets/Mouse_Brain/H3K27ac/adata_RNA.h5ad,Mouse brain,H3K27ac,https://doi.org/10.5281/zenodo.10362607,123997765,63504f61464b1124eb47a0f20bf668d69e8b7e30e564264030f52f806e30cb15

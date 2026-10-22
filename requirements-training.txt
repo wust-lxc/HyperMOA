@@ -1,0 +1,12 @@
+-r requirements-evaluation.txt
+scanpy>=1.10
+scikit-misc
+torch>=1.13
+torch-geometric
+rpy2
+opencv-python
+faiss-cpu
+networkx
+seaborn
+tqdm
+pynrrd

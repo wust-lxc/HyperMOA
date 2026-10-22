@@ -1,0 +1,176 @@
+figure,content,path,entrypoint
+Fig. 1,Framework vector artwork,figure/framework/HyperMOA_framework_final.pdf,static artwork
+Fig. 2,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Simulation/slice1/clustering_results.h5ad,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 2,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Simulation/slice2/clustering_results.h5ad,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 2,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Simulation/slice3/clustering_results.h5ad,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 2,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Simulation/slice4/clustering_results.h5ad,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 2,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Simulation/slice5/clustering_results.h5ad,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 2,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Simulation/slice1/clustering_labels.csv,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 2,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Simulation/slice2/clustering_labels.csv,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 2,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Simulation/slice3/clustering_labels.csv,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 2,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Simulation/slice4/clustering_labels.csv,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 2,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Simulation/slice5/clustering_labels.csv,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 2,Full-precision section and dataset metrics,data/evaluation/fair_benchmark/clustering_paper_metrics_slice.csv,benchmark/scripts/evaluation/clustering/evaluate_fair_clustering.py
+Fig. 2,Full-precision section and dataset metrics,data/evaluation/fair_benchmark/clustering_paper_metrics_macro.csv,benchmark/scripts/evaluation/clustering/evaluate_fair_clustering.py
+Fig. 3,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Human_lymph_node/slice1/clustering_results.h5ad,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 3,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Human_lymph_node/slice2/clustering_results.h5ad,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 3,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Human_lymph_node/slice3/clustering_results.h5ad,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 3,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Human_lymph_node/slice1/clustering_labels.csv,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 3,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Human_lymph_node/slice2/clustering_labels.csv,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 3,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Human_lymph_node/slice3/clustering_labels.csv,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 3,Full-precision section and dataset metrics,data/evaluation/fair_benchmark/clustering_paper_metrics_slice.csv,benchmark/scripts/evaluation/clustering/evaluate_fair_clustering.py
+Fig. 3,Full-precision section and dataset metrics,data/evaluation/fair_benchmark/clustering_paper_metrics_macro.csv,benchmark/scripts/evaluation/clustering/evaluate_fair_clustering.py
+Fig. 4,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Mouse_Brain/ATAC/clustering_results.h5ad,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 4,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Mouse_Brain/H3K27ac/clustering_results.h5ad,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 4,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Mouse_Brain/ATAC/clustering_labels.csv,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 4,"All-section labels, embeddings and spatial coordinates",data/results/clustering/Mouse_Brain/H3K27ac/clustering_labels.csv,figure/clustering/create_clustering_comparison_with_metrics.py
+Fig. 4,Full-precision section and dataset metrics,data/evaluation/fair_benchmark/clustering_paper_metrics_slice.csv,benchmark/scripts/evaluation/clustering/evaluate_fair_clustering.py
+Fig. 4,Full-precision section and dataset metrics,data/evaluation/fair_benchmark/clustering_paper_metrics_macro.csv,benchmark/scripts/evaluation/clustering/evaluate_fair_clustering.py
+Fig. 5,Domain composition and RNA marker statistics,figure/mouse_brain_marker_multiomics/domain_spot_counts.csv,figure/mouse_brain_marker_multiomics/create_mouse_brain_marker_multiomics_figure.py
+Fig. 5,Domain composition and RNA marker statistics,figure/mouse_brain_marker_multiomics/domain_truth_counts.csv,figure/mouse_brain_marker_multiomics/create_mouse_brain_marker_multiomics_figure.py
+Fig. 5,Domain composition and RNA marker statistics,figure/mouse_brain_marker_multiomics/domain_truth_proportions.csv,figure/mouse_brain_marker_multiomics/create_mouse_brain_marker_multiomics_figure.py
+Fig. 5,Domain composition and RNA marker statistics,figure/mouse_brain_marker_multiomics/marker_heatmap_values.csv,figure/mouse_brain_marker_multiomics/create_mouse_brain_marker_multiomics_figure.py
+Fig. 5,Domain composition and RNA marker statistics,figure/mouse_brain_marker_multiomics/representative_markers.csv,figure/mouse_brain_marker_multiomics/create_mouse_brain_marker_multiomics_figure.py
+Fig. 5,Domain composition and RNA marker statistics,figure/mouse_brain_marker_multiomics/selected_domain_markers.csv,figure/mouse_brain_marker_multiomics/create_mouse_brain_marker_multiomics_figure.py
+Fig. 5,Domain composition and RNA marker statistics,figure/mouse_brain_marker_multiomics/domain_marker_statistics_all_genes.csv.gz,figure/mouse_brain_marker_multiomics/create_mouse_brain_marker_multiomics_figure.py
+Fig. 5,Domain composition and RNA marker statistics,HyperMOA/Mouse_brain_result/H3K27ac_ATAC/h3k27ac_atac_processed.h5ad,figure/mouse_brain_marker_multiomics/create_mouse_brain_marker_multiomics_figure.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/3d-OT/alignment_results.h5ad,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/HyperMOA/alignment_results.h5ad,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/PASTE/alignment_results.h5ad,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/SANTO/alignment_results.h5ad,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/SLAT/alignment_results.h5ad,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Mouse_Brain/3d-OT/alignment_results.h5ad,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Mouse_Brain/HyperMOA/alignment_results.h5ad,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Mouse_Brain/PASTE/alignment_results.h5ad,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Mouse_Brain/SANTO/alignment_results.h5ad,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Mouse_Brain/SLAT/alignment_results.h5ad,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/3d-OT/alignment_results.h5ad,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/HyperMOA/alignment_results.h5ad,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/PASTE/alignment_results.h5ad,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/SANTO/alignment_results.h5ad,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/SLAT/alignment_results.h5ad,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/3d-OT/pair_checkpoints/slice1_to_slice2.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/3d-OT/pair_checkpoints/slice2_to_slice3.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/PASTE/pair_checkpoints/slice1_to_slice2.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/PASTE/pair_checkpoints/slice2_to_slice3.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/SANTO/pair_checkpoints/slice1_to_slice2.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/SANTO/pair_checkpoints/slice2_to_slice3.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/SLAT/pair_checkpoints/slice1_to_slice2.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/SLAT/pair_checkpoints/slice2_to_slice3.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Mouse_Brain/3d-OT/pair_checkpoints/Mouse_Brain_ATAC_to_Mouse_Brain_H3K27ac.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Mouse_Brain/PASTE/pair_checkpoints/Mouse_Brain_ATAC_to_Mouse_Brain_H3K27ac.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Mouse_Brain/SANTO/pair_checkpoints/Mouse_Brain_ATAC_to_Mouse_Brain_H3K27ac.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Mouse_Brain/SLAT/pair_checkpoints/Mouse_Brain_ATAC_to_Mouse_Brain_H3K27ac.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/3d-OT/pair_checkpoints/Simulation1_to_Simulation2.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/3d-OT/pair_checkpoints/Simulation2_to_Simulation3.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/3d-OT/pair_checkpoints/Simulation3_to_Simulation4.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/3d-OT/pair_checkpoints/Simulation4_to_Simulation5.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/PASTE/pair_checkpoints/Simulation1_to_Simulation2.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/PASTE/pair_checkpoints/Simulation2_to_Simulation3.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/PASTE/pair_checkpoints/Simulation3_to_Simulation4.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/PASTE/pair_checkpoints/Simulation4_to_Simulation5.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/SANTO/pair_checkpoints/Simulation1_to_Simulation2.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/SANTO/pair_checkpoints/Simulation2_to_Simulation3.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/SANTO/pair_checkpoints/Simulation3_to_Simulation4.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/SANTO/pair_checkpoints/Simulation4_to_Simulation5.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/SLAT/pair_checkpoints/Simulation1_to_Simulation2.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/SLAT/pair_checkpoints/Simulation2_to_Simulation3.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/SLAT/pair_checkpoints/Simulation3_to_Simulation4.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/SLAT/pair_checkpoints/Simulation4_to_Simulation5.npz,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/3d-OT/run_config.json,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/HyperMOA/run_config.json,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/PASTE/run_config.json,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/SANTO/run_config.json,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Human_lymph_node/SLAT/run_config.json,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Mouse_Brain/3d-OT/run_config.json,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Mouse_Brain/HyperMOA/run_config.json,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Mouse_Brain/PASTE/run_config.json,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Mouse_Brain/SANTO/run_config.json,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Mouse_Brain/SLAT/run_config.json,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/3d-OT/run_config.json,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/HyperMOA/run_config.json,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/PASTE/run_config.json,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/SANTO/run_config.json,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,"Pair coordinates, labels and configurations",data/results/alignment/Simulation/SLAT/run_config.json,figure/aligment_3d/create_alignment_3d_composite_paper_18x22cm.py
+Fig. 6,Full-precision registration metrics and aggregate-score inputs,data/evaluation/fair_benchmark/alignment_paper_pair_metrics.csv,benchmark/scripts/evaluation/alignment/evaluate_alignment_paper.py
+Fig. 6,Full-precision registration metrics and aggregate-score inputs,data/evaluation/fair_benchmark/alignment_paper_main_metrics.csv,benchmark/scripts/evaluation/alignment/evaluate_alignment_paper.py
+Fig. 6,Full-precision registration metrics and aggregate-score inputs,data/evaluation/fair_benchmark/alignment_mouse_region_score_summary.csv,benchmark/scripts/evaluation/alignment/evaluate_alignment_paper.py
+Fig. 7,"Stage identities, organ annotations, embeddings and native/registered coordinates",HyperMOA/mouse_embryo_result/mouse_embryo_processed.h5ad,figure/embryo_development/create_temporal_alignment_paper_figure.py
+Fig. 7,"Stage identities, organ annotations, embeddings and native/registered coordinates",HyperMOA/mouse_embryo_result/protocol.json,figure/embryo_development/create_temporal_alignment_paper_figure.py
+Fig. 7,"Stage identities, organ annotations, embeddings and native/registered coordinates",HyperMOA/mouse_embryo_result/tables/section_tissue_composition.csv,figure/embryo_development/create_temporal_alignment_paper_figure.py
+Table S1,Metric-set rank summaries,data/evaluation/fair_benchmark/alignment_mouse_region_score_summary.csv,reproduce.py metrics
+Table S1,Metric-set rank summaries,data/evaluation/fair_benchmark/alignment_paper_main_metrics.csv,reproduce.py metrics
+Table S2,Accepted/rejected affine updates and saved refinement records,data/results/alignment_refinement_final/Human_lymph_node/seed2022/diagnostics.json,benchmark/scripts/runners/alignment/run_final_alignment_refinement.py
+Table S2,Accepted/rejected affine updates and saved refinement records,data/results/alignment_refinement_final/Human_lymph_node/seed42/diagnostics.json,benchmark/scripts/runners/alignment/run_final_alignment_refinement.py
+Table S2,Accepted/rejected affine updates and saved refinement records,data/results/alignment_refinement_final/Human_lymph_node/seed7/diagnostics.json,benchmark/scripts/runners/alignment/run_final_alignment_refinement.py
+Table S2,Accepted/rejected affine updates and saved refinement records,data/results/alignment_refinement_final/Mouse_Brain/seed2022/diagnostics.json,benchmark/scripts/runners/alignment/run_final_alignment_refinement.py
+Table S2,Accepted/rejected affine updates and saved refinement records,data/results/alignment_refinement_final/Mouse_Brain/seed42/diagnostics.json,benchmark/scripts/runners/alignment/run_final_alignment_refinement.py
+Table S2,Accepted/rejected affine updates and saved refinement records,data/results/alignment_refinement_final/Mouse_Brain/seed7/diagnostics.json,benchmark/scripts/runners/alignment/run_final_alignment_refinement.py
+Table S2,Accepted/rejected affine updates and saved refinement records,data/results/alignment_refinement_final/Simulation/seed2022/diagnostics.json,benchmark/scripts/runners/alignment/run_final_alignment_refinement.py
+Table S2,Accepted/rejected affine updates and saved refinement records,data/results/alignment_refinement_final/Simulation/seed42/diagnostics.json,benchmark/scripts/runners/alignment/run_final_alignment_refinement.py
+Table S2,Accepted/rejected affine updates and saved refinement records,data/results/alignment_refinement_final/Simulation/seed7/diagnostics.json,benchmark/scripts/runners/alignment/run_final_alignment_refinement.py
+Table S2,Accepted/rejected affine updates and saved refinement records,data/results/alignment_refinement_final/seed_pair_metrics.csv,benchmark/scripts/runners/alignment/run_final_alignment_refinement.py
+Fig. S1,All-section labels and unscaled pairwise overlays,data/results/clustering/Human_lymph_node/slice1/clustering_results.h5ad,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S1,All-section labels and unscaled pairwise overlays,data/results/clustering/Human_lymph_node/slice2/clustering_results.h5ad,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S1,All-section labels and unscaled pairwise overlays,data/results/clustering/Human_lymph_node/slice3/clustering_results.h5ad,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S1,All-section labels and unscaled pairwise overlays,data/results/alignment/Human_lymph_node/3d-OT/pair_checkpoints/slice1_to_slice2.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S1,All-section labels and unscaled pairwise overlays,data/results/alignment/Human_lymph_node/3d-OT/pair_checkpoints/slice2_to_slice3.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S1,All-section labels and unscaled pairwise overlays,data/results/alignment/Human_lymph_node/PASTE/pair_checkpoints/slice1_to_slice2.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S1,All-section labels and unscaled pairwise overlays,data/results/alignment/Human_lymph_node/PASTE/pair_checkpoints/slice2_to_slice3.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S1,All-section labels and unscaled pairwise overlays,data/results/alignment/Human_lymph_node/SANTO/pair_checkpoints/slice1_to_slice2.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S1,All-section labels and unscaled pairwise overlays,data/results/alignment/Human_lymph_node/SANTO/pair_checkpoints/slice2_to_slice3.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S1,All-section labels and unscaled pairwise overlays,data/results/alignment/Human_lymph_node/SLAT/pair_checkpoints/slice1_to_slice2.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S1,All-section labels and unscaled pairwise overlays,data/results/alignment/Human_lymph_node/SLAT/pair_checkpoints/slice2_to_slice3.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/clustering/Simulation/slice1/clustering_results.h5ad,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/clustering/Simulation/slice2/clustering_results.h5ad,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/clustering/Simulation/slice3/clustering_results.h5ad,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/clustering/Simulation/slice4/clustering_results.h5ad,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/clustering/Simulation/slice5/clustering_results.h5ad,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/alignment/Simulation/3d-OT/pair_checkpoints/Simulation1_to_Simulation2.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/alignment/Simulation/3d-OT/pair_checkpoints/Simulation2_to_Simulation3.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/alignment/Simulation/3d-OT/pair_checkpoints/Simulation3_to_Simulation4.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/alignment/Simulation/3d-OT/pair_checkpoints/Simulation4_to_Simulation5.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/alignment/Simulation/PASTE/pair_checkpoints/Simulation1_to_Simulation2.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/alignment/Simulation/PASTE/pair_checkpoints/Simulation2_to_Simulation3.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/alignment/Simulation/PASTE/pair_checkpoints/Simulation3_to_Simulation4.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/alignment/Simulation/PASTE/pair_checkpoints/Simulation4_to_Simulation5.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/alignment/Simulation/SANTO/pair_checkpoints/Simulation1_to_Simulation2.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/alignment/Simulation/SANTO/pair_checkpoints/Simulation2_to_Simulation3.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/alignment/Simulation/SANTO/pair_checkpoints/Simulation3_to_Simulation4.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/alignment/Simulation/SANTO/pair_checkpoints/Simulation4_to_Simulation5.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/alignment/Simulation/SLAT/pair_checkpoints/Simulation1_to_Simulation2.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/alignment/Simulation/SLAT/pair_checkpoints/Simulation2_to_Simulation3.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/alignment/Simulation/SLAT/pair_checkpoints/Simulation3_to_Simulation4.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S2,All-section labels and unscaled pairwise overlays,data/results/alignment/Simulation/SLAT/pair_checkpoints/Simulation4_to_Simulation5.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S3,All-section labels and unscaled pairwise overlays,data/results/clustering/Mouse_Brain/ATAC/clustering_results.h5ad,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S3,All-section labels and unscaled pairwise overlays,data/results/clustering/Mouse_Brain/H3K27ac/clustering_results.h5ad,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S3,All-section labels and unscaled pairwise overlays,data/results/alignment/Mouse_Brain/3d-OT/pair_checkpoints/Mouse_Brain_ATAC_to_Mouse_Brain_H3K27ac.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S3,All-section labels and unscaled pairwise overlays,data/results/alignment/Mouse_Brain/PASTE/pair_checkpoints/Mouse_Brain_ATAC_to_Mouse_Brain_H3K27ac.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S3,All-section labels and unscaled pairwise overlays,data/results/alignment/Mouse_Brain/SANTO/pair_checkpoints/Mouse_Brain_ATAC_to_Mouse_Brain_H3K27ac.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. S3,All-section labels and unscaled pairwise overlays,data/results/alignment/Mouse_Brain/SLAT/pair_checkpoints/Mouse_Brain_ATAC_to_Mouse_Brain_H3K27ac.npz,figure/full_manuscript_review/build_supplement_figures.py
+Fig. 5,Archived normalized analysis input,data/analysis_inputs/provenance.json,reproduce.py
+Fig. 5,Archived normalized analysis input,data/analysis_inputs/markers/marker_plot_inputs.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Human_lymph_node/genes.json,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Mouse_Brain/genes.json,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Simulation/genes.json,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Simulation/Simulation1/observations.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Simulation/Simulation1/rna_logcp10k.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Simulation/Simulation2/observations.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Simulation/Simulation2/rna_logcp10k.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Simulation/Simulation3/observations.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Simulation/Simulation3/rna_logcp10k.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Simulation/Simulation4/observations.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Simulation/Simulation4/rna_logcp10k.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Simulation/Simulation5/observations.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Simulation/Simulation5/rna_logcp10k.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Mouse_Brain/Mouse_Brain_ATAC/observations.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Mouse_Brain/Mouse_Brain_ATAC/rna_logcp10k.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Mouse_Brain/Mouse_Brain_H3K27ac/observations.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Mouse_Brain/Mouse_Brain_H3K27ac/rna_logcp10k.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Human_lymph_node/slice1/observations.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Human_lymph_node/slice1/rna_logcp10k.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Human_lymph_node/slice2/observations.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Human_lymph_node/slice2/rna_logcp10k.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Human_lymph_node/slice3/observations.npz,reproduce.py
+Fig. 6,Archived normalized analysis input,data/analysis_inputs/registration/Human_lymph_node/slice3/rna_logcp10k.npz,reproduce.py
+Table S3,Sample identities and public data sources,DATASETS.csv,docs/DATA_PREPARATION.md

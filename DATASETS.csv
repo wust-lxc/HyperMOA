@@ -1,0 +1,19 @@
+dataset,sample,modalities,spots,rna_genes,second_features,source,accession
+Simulation,S1,RNA-protein,1296,1000,100 proteins,https://doi.org/10.5281/zenodo.15089427,
+Simulation,S2,RNA-protein,1296,1000,100 proteins,https://doi.org/10.5281/zenodo.15089427,
+Simulation,S3,RNA-protein,1296,1000,100 proteins,https://doi.org/10.5281/zenodo.15089427,
+Simulation,S4,RNA-protein,1296,1000,100 proteins,https://doi.org/10.5281/zenodo.15089427,
+Simulation,S5,RNA-protein,1296,1000,100 proteins,https://doi.org/10.5281/zenodo.15089427,
+Human lymph node,S1 (A1),RNA-protein,3484,18085,31 proteins,https://doi.org/10.5281/zenodo.18946723,GSE263617 (A1/D1)
+Human lymph node,S2 (D1),RNA-protein,3359,18085,31 proteins,https://doi.org/10.5281/zenodo.18946723,GSE263617 (A1/D1)
+Human lymph node,S3,RNA-protein,3408,18085,31 proteins,https://doi.org/10.5281/zenodo.18946723,GSE263617 (A1/D1)
+Mouse brain,H3K27ac,RNA-H3K27ac,9370,23415,50 LSI,https://doi.org/10.5281/zenodo.10362607,GSE205055
+Mouse brain,ATAC,RNA-ATAC,9215,22914,50 LSI,https://doi.org/10.5281/zenodo.10362607,GSE205055
+Mouse embryo,E9.5 E1S1,RNA,5913,25568,,https://db.cngb.org/stomics/mosta/download/,STDS0000058; CNP0001543
+Mouse embryo,E10.5 E1S1,RNA,18408,25201,,https://db.cngb.org/stomics/mosta/download/,STDS0000058; CNP0001543
+Mouse embryo,E11.5 E1S1,RNA,30124,26854,,https://db.cngb.org/stomics/mosta/download/,STDS0000058; CNP0001543
+Mouse embryo,E12.5 E1S1,RNA,51365,27810,,https://db.cngb.org/stomics/mosta/download/,STDS0000058; CNP0001543
+Mouse embryo,E13.5 E1S1,RNA,77369,28408,,https://db.cngb.org/stomics/mosta/download/,STDS0000058; CNP0001543
+Mouse embryo,E14.5 E1S1,RNA,102519,28463,,https://db.cngb.org/stomics/mosta/download/,STDS0000058; CNP0001543
+Mouse embryo,E15.5 E1S1,RNA,113350,28798,,https://db.cngb.org/stomics/mosta/download/,STDS0000058; CNP0001543
+Mouse embryo,E16.5 E1S1,RNA,121767,28204,,https://db.cngb.org/stomics/mosta/download/,STDS0000058; CNP0001543
